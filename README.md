@@ -1,5 +1,5 @@
 # My top (public) languages
-![semagnum's top public languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semagnum&theme=blue-green)
+![semagnum's top public languages](https://github-readme-stats.vercel.app/api/top-langs/?username=semagnum&layout=compact)
 
 # My Github Grade
 ![semagnum's Github grade](https://github-readme-stats.vercel.app/api?username=semagnum&show_icons=true)
