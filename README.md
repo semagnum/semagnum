@@ -25,5 +25,5 @@ IDEs:&nbsp;
 Operating Systems:&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-white?style=flat&logo=Windows&logoColor=blue)
 ![MacOS](https://img.shields.io/badge/-MacOS-white?style=flat&logo=MacOS&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-white?style=flat&logo=Linux)
+![Linux](https://img.shields.io/badge/-Linux-white?style=flat&logo=Linux&logoColor=black)
 
