@@ -5,11 +5,16 @@
 Web Development:&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=Oracle&logoColor=red)
+![Spring](https://img.shields.io/badge/-Spring-white?style=flat&logo=Spring)
 ![Vue](https://img.shields.io/badge/-Vue-white?style=flat&logo=Vue.js)
 ![HTML](https://img.shields.io/badge/-HTML-white?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-white?style=flat&logo=CSS3&logoColor=blue)
 ![node.js](https://img.shields.io/badge/-node-white?style=flat&logo=node.js)
+
+Dependency Management:&nbsp;
+![Apache Maven](https://img.shields.io/badge/-Maven-white?style=flat&logo=ApacheMaven&logoColor=red)
 ![npm](https://img.shields.io/badge/-npm-white?style=flat&logo=npm)
+![pip](https://img.shields.io/badge/-pip-white?style=flat&logo=pypi)
 
 3D graphics:&nbsp;
 ![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=Python)
@@ -26,4 +31,3 @@ Operating Systems:&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-white?style=flat&logo=Windows&logoColor=blue)
 ![MacOS](https://img.shields.io/badge/-MacOS-white?style=flat&logo=MacOS&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-white?style=flat&logo=Linux&logoColor=black)
-
