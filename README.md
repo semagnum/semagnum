@@ -1,4 +1,4 @@
-![semagnum's Github grade](https://github-readme-stats.vercel.app/api?username=semagnum&show_icons=true)
+![semagnum's Github grade](https://github-readme-stats.zohan.tech/api?username=semagnum&show_icons=true)
 
 ## Familiar Technologies, frameworks and applications
 
