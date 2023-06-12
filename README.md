@@ -1,3 +1,13 @@
+Hello, welcome to my page!
+
+## Blender
+
+Within Blender, I create art as well as develop tools, some of which I [sell online](https://blendermarket.com/products/nview-v3). You can find my art at [spencermagnusson.artstation.com](https://spencermagnusson.artstation.com), but my free tools live here, including:
+
+- **[Light Painter](/light-painter/)** - "turns light design in Blender on its head: instead of manipulating the lights, you indicate how you want them to appear on your models by painting their influence. Very cool and innovative!" - Blender Nation
+- **[Shot Matcher](/shot-matcher/)** - formerly on the Blender Market, "Shot Matcher does a great job in helping you quickly set your brights and darks, which is essential in visual effects compositing. A simple to use, very handy tool!" - Sean Kennedy
+- **[BLint](/blint/)** - automate standardization and file conventions on the Blender projects.
+
 ![semagnum's Github grade](https://github-readme-stats.zohan.tech/api?username=semagnum&show_icons=true&count_private=true)
 
 ## Familiar Technologies, frameworks and applications
